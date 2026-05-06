@@ -10,4 +10,9 @@
     - [3.3. Padrões de Projeto GoFs Comportamentais](/docs/PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.5.IniciativasExtras.md)
-      
+    - [3.5.1 Cronograma](/docs/PadroesDeProjeto/3.5.1.Cronograma.md)
+    - [3.5.2 Reuniões e atas](/docs/PadroesDeProjeto/3.5.2.ReunioesAtas.md)
+    - [3.5.3 Ferramentas](/docs/PadroesDeProjeto/3.5.3.Ferramentas.md)
+    - [3.5.4 Modelo de domínio](/docs/PadroesDeProjeto/3.5.4.ModeloDominio.md)
+    - [3.5.5 Ajuste diagrama de classes](/docs/PadroesDeProjeto/3.5.5.DiagramaClasses.md)
+- [Atas]
