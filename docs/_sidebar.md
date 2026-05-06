@@ -31,3 +31,5 @@
       - [3.5.4 Modelo de domínio](/docs/PadroesDeProjeto/3.5.4.ModeloDominio.md)
       - [3.5.5 Ajuste diagrama de classes](/docs/PadroesDeProjeto/3.5.5.DiagramaClasses.md)
 - [Atas]
+  - [28-04 - Reunião inicial](/atas/28-04.md)
+  - [05-05 - Modelo de domínio](/atas/05-05.md)
