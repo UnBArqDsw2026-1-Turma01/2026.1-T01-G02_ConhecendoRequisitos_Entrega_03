@@ -8,7 +8,7 @@
       - [3.1.1 Builder](/PadroesDeProjeto/3.1.1.Builder.md)
       - [3.1.2 Multiton](/PadroesDeProjeto/3.1.2.Multiton.md)
       - [3.1.3 Factory method](/PadroesDeProjeto/3.1.3.FactoryMethod.md)
-      - [3.1.4 Abstract factory](/PadroesDeProjeto/3.1.4.AbstractFactory.md)
+      - [3.1.4 Prototype](../docs/PadroesDeProjeto/3.1.4.Prototype.md)
       - [3.1.5 Singleton](/PadroesDeProjeto/3.1.5.Singleton.md)
     - [3.2. Padrões de Projeto GoFs Estruturais](/PadroesDeProjeto/3.2.GoFsEstruturais.md)
       - [3.2.1 Adapter](/PadroesDeProjeto/3.2.1.Adapter.md)
