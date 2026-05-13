@@ -32,3 +32,4 @@
 - Atas
   - [28-04 - Reunião inicial](/atas/28-04.md)
   - [05-05 - Modelo de domínio](/atas/05-05.md)
+  - [15-05 - Reunião de alinhamento](/atas/12-05.md)
