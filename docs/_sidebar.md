@@ -8,7 +8,7 @@
       - [3.1.1 Builder](/PadroesDeProjeto/3.1.1.Builder.md)
       - [3.1.2 Multiton](/PadroesDeProjeto/3.1.2.Multiton.md)
       - [3.1.3 Factory method](/PadroesDeProjeto/3.1.3.FactoryMethod.md)
-      - [3.1.4 Abstract factory](/PadroesDeProjeto/3.1.4.AbstractFactory.md)
+      - [3.1.4 Prototype](../docs/PadroesDeProjeto/3.1.4.Prototype.md)
       - [3.1.5 Singleton](/PadroesDeProjeto/3.1.5.Singleton.md)
     - [3.2. Padrões de Projeto GoFs Estruturais](/PadroesDeProjeto/3.2.GoFsEstruturais.md)
       - [3.2.1 Adapter](/PadroesDeProjeto/3.2.1.Adapter.md)
@@ -32,3 +32,4 @@
 - Atas
   - [28-04 - Reunião inicial](/atas/28-04.md)
   - [05-05 - Modelo de domínio](/atas/05-05.md)
+  - [15-05 - Reunião de alinhamento](/atas/12-05.md)
