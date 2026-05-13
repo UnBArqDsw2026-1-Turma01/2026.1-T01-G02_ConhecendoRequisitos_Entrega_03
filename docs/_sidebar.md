@@ -12,7 +12,7 @@
       - [3.1.5 Singleton](/PadroesDeProjeto/3.1.5.Singleton.md)
     - [3.2. Padrões de Projeto GoFs Estruturais](/PadroesDeProjeto/3.2.GoFsEstruturais.md)
       - [3.2.1 Adapter](/PadroesDeProjeto/3.2.1.Adapter.md)
-      - [3.2.2 Bridge](/PadroesDeProjeto/3.2.2.Bridge.md)
+      - [3.2.2 Facade](/PadroesDeProjeto/3.2.2.Facade.md)
       - [3.2.3 Proxy](/PadroesDeProjeto/3.2.3.Proxy.md)
       - [3.2.4 Decorator](/PadroesDeProjeto/3.2.4.Decorator.md)
       - [3.2.5 Composite](/PadroesDeProjeto/3.2.5.Composite.md)
